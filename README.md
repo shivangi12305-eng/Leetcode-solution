@@ -10,6 +10,7 @@
 | [0877-stone-game](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3731-find-missing-elements](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -36,6 +37,7 @@
 | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3731-find-missing-elements](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/3731-find-missing-elements) |
 ## Counting Sort
 |  |
 | ------- |
@@ -47,6 +49,7 @@
 | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3731-find-missing-elements](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/3731-find-missing-elements) |
 ## Combinatorics
 |  |
 | ------- |
