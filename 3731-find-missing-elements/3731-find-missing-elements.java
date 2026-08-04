@@ -18,7 +18,3 @@ class Solution {
                 ans.add(i);
             }
         }
-
-        return ans;
-    }
-}
