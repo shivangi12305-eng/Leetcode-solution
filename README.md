@@ -11,6 +11,7 @@
 | [1140-stone-game-ii](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/3731-find-missing-elements) |
@@ -36,6 +37,7 @@
 |  |
 | ------- |
 | [0520-detect-capital](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0520-detect-capital) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -147,4 +149,12 @@
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Segment Tree
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
