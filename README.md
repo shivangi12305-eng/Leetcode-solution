@@ -43,6 +43,7 @@
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Sorting
@@ -127,6 +128,7 @@
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Backtracking
 |  |
 | ------- |
