@@ -9,6 +9,7 @@
 | [0486-predict-the-winner](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/1140-stone-game-ii) |
+| [1260-shift-2d-grid](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/1260-shift-2d-grid) |
 | [1406-stone-game-iii](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -162,4 +163,12 @@
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/1260-shift-2d-grid) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
