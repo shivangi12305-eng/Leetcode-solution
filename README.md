@@ -12,6 +12,7 @@
 | [1260-shift-2d-grid](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/1260-shift-2d-grid) |
 | [1406-stone-game-iii](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -26,6 +27,7 @@
 | [1406-stone-game-iii](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -58,6 +60,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -77,6 +80,7 @@
 ## Greedy
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -102,18 +106,21 @@
 | [1140-stone-game-ii](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/2029-stone-game-ix) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -147,6 +154,7 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
