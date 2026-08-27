@@ -54,6 +54,7 @@
 |  |
 | ------- |
 | [0520-detect-capital](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0520-detect-capital) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1927-sum-game](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -102,6 +103,7 @@
 ## Greedy
 |  |
 | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/2029-stone-game-ix) |
@@ -226,4 +228,12 @@
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
