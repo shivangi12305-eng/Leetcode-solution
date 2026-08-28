@@ -6,7 +6,6 @@ class Solution {
             count[c - 'a']++;
         }
 
-        // Check if a palindromic permutation is possible
         int oddCount = 0;
         char midChar = 0;
         for (int i = 0; i < 26; i++) {
@@ -26,7 +25,6 @@ class Solution {
             halfCount[i] = count[i] / 2;
         }
 
-        // Case 1: Try forming the exact first half of target
         int[] curCount = halfCount.clone();
         boolean canMatchTargetPrefix = true;
         for (int i = 0; i < m; i++) {
@@ -46,8 +44,6 @@ class Solution {
             }
         }
 
-        // Case 2: Find the largest prefix index i where we can increment target.charAt(i)
-        // Check how far target's prefix can be matched
         int[] prefixCount = halfCount.clone();
         int maxMatch = 0;
         while (maxMatch < m && prefixCount[target.charAt(maxMatch) - 'a'] > 0) {
@@ -56,7 +52,6 @@ class Solution {
         }
 
         for (int i = maxMatch; i >= 0; i--) {
-            // Recompute the remaining counts for prefix target[0..i-1]
             int[] rem = halfCount.clone();
             for (int j = 0; j < i; j++) {
                 rem[target.charAt(j) - 'a']--;
@@ -64,7 +59,6 @@ class Solution {
 
             if (i < m) {
                 int targetChar = target.charAt(i) - 'a';
-                // Try to find the smallest char strictly greater than target[i]
                 for (int c = targetChar + 1; c < 26; c++) {
                     if (rem[c] > 0) {
                         StringBuilder firstHalf = new StringBuilder();
@@ -74,7 +68,6 @@ class Solution {
                         firstHalf.append((char) ('a' + c));
                         rem[c]--;
 
-                        // Fill the rest with smallest available characters
                         for (int k = 0; k < 26; k++) {
                             while (rem[k] > 0) {
                                 firstHalf.append((char) ('a' + k));
