@@ -54,6 +54,7 @@
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0008-string-to-integer-atoi) |
 | [0520-detect-capital](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0520-detect-capital) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
