@@ -256,4 +256,8 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0022-generate-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 <!---LeetCode Topics End-->
