@@ -59,6 +59,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0012-integer-to-roman) |
@@ -130,6 +131,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0022-generate-parentheses) |
 | [0486-predict-the-winner](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0877-stone-game) |
@@ -199,6 +201,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0005-longest-palindromic-substring) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Prefix Sum
@@ -270,4 +273,8 @@
 |  |
 | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
