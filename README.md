@@ -69,6 +69,7 @@
 | [0012-integer-to-roman](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0012-integer-to-roman) |
 | [0022-generate-parentheses](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0058-length-of-last-word) |
+| [0115-distinct-subsequences](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0115-distinct-subsequences) |
 | [0520-detect-capital](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0520-detect-capital) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1927-sum-game](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/1927-sum-game) |
@@ -138,6 +139,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0022-generate-parentheses) |
+| [0115-distinct-subsequences](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/1140-stone-game-ii) |
