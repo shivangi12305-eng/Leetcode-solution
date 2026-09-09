@@ -6,6 +6,7 @@
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0016-3sum-closest) |
 | [0486-predict-the-winner](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/1140-stone-game-ii) |
@@ -91,6 +92,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0016-3sum-closest) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -213,6 +215,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0005-longest-palindromic-substring) |
+| [0016-3sum-closest](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0016-3sum-closest) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Prefix Sum
