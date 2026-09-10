@@ -189,6 +189,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -293,4 +294,12 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0005-longest-palindromic-substring) |
+## Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Binary Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
