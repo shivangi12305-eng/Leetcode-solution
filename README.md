@@ -74,6 +74,7 @@
 | [0022-generate-parentheses](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0058-length-of-last-word) |
 | [0115-distinct-subsequences](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0115-distinct-subsequences) |
+| [0290-word-pattern](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0290-word-pattern) |
 | [0520-detect-capital](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0520-detect-capital) |
 | [0940-distinct-subsequences-ii](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -111,6 +112,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0012-integer-to-roman) |
+| [0290-word-pattern](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0290-word-pattern) |
 | [1386-cinema-seat-allocation](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
