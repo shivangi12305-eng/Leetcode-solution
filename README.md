@@ -37,6 +37,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0012-integer-to-roman) |
 | [0486-predict-the-winner](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0877-stone-game) |
