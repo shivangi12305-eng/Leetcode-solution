@@ -8,6 +8,7 @@
 | ------- |
 | [0016-3sum-closest](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0016-3sum-closest) |
 | [0486-predict-the-winner](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0486-predict-the-winner) |
+| [0835-image-overlap](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/1260-shift-2d-grid) |
@@ -262,6 +263,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/1260-shift-2d-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Simulation
