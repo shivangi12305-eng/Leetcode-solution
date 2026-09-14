@@ -9,6 +9,7 @@
 | [0016-3sum-closest](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0016-3sum-closest) |
 | [0403-frog-jump](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0403-frog-jump) |
 | [0486-predict-the-winner](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0486-predict-the-winner) |
+| [0546-remove-boxes](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0546-remove-boxes) |
 | [0835-image-overlap](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/1140-stone-game-ii) |
@@ -159,6 +160,7 @@
 | [0392-is-subsequence](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0392-is-subsequence) |
 | [0403-frog-jump](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0403-frog-jump) |
 | [0486-predict-the-winner](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0486-predict-the-winner) |
+| [0546-remove-boxes](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0546-remove-boxes) |
 | [0877-stone-game](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/1140-stone-game-ii) |
@@ -325,4 +327,8 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0836-rectangle-overlap) |
+## Memoization
+|  |
+| ------- |
+| [0546-remove-boxes](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0546-remove-boxes) |
 <!---LeetCode Topics End-->
