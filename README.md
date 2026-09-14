@@ -79,6 +79,7 @@
 | [0058-length-of-last-word](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0058-length-of-last-word) |
 | [0115-distinct-subsequences](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0115-distinct-subsequences) |
 | [0290-word-pattern](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0290-word-pattern) |
+| [0392-is-subsequence](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0392-is-subsequence) |
 | [0520-detect-capital](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0520-detect-capital) |
 | [0940-distinct-subsequences-ii](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -154,6 +155,7 @@
 | [0005-longest-palindromic-substring](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0115-distinct-subsequences) |
+| [0392-is-subsequence](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0940-distinct-subsequences-ii) |
@@ -229,6 +231,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0005-longest-palindromic-substring) |
 | [0016-3sum-closest](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0016-3sum-closest) |
+| [0392-is-subsequence](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0392-is-subsequence) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Prefix Sum
