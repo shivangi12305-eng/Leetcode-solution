@@ -6,7 +6,6 @@ class Solution {
         Set<String> set=new HashSet<>();
         set.add("");
         current.add(set);
-
         for(int i=0;i<expression.length();i++){
             char c=expression.charAt(i);
             if(Character.isLetter(c)){
@@ -36,7 +35,6 @@ class Solution {
                 current.add(init);
             }
         }
-
         Set<String> resultSet=new HashSet<>();
         for(Set<String> set2:current)
             resultSet.addAll(set2);
