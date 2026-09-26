@@ -7,6 +7,7 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0056-merge-intervals) |
 | [0403-frog-jump](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0403-frog-jump) |
 | [0486-predict-the-winner](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0486-predict-the-winner) |
@@ -90,6 +91,7 @@
 | [0008-string-to-integer-atoi](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0012-integer-to-roman) |
 | [0022-generate-parentheses](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0058-length-of-last-word) |
 | [0115-distinct-subsequences](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0115-distinct-subsequences) |
 | [0290-word-pattern](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0290-word-pattern) |
@@ -119,6 +121,7 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0056-merge-intervals) |
 | [1096-brace-expansion-ii](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -140,6 +143,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0012-integer-to-roman) |
+| [0049-group-anagrams](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0049-group-anagrams) |
 | [0290-word-pattern](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0290-word-pattern) |
 | [1096-brace-expansion-ii](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/1386-cinema-seat-allocation) |
