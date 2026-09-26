@@ -7,6 +7,7 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0016-3sum-closest) |
+| [0056-merge-intervals](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0056-merge-intervals) |
 | [0403-frog-jump](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0403-frog-jump) |
 | [0486-predict-the-winner](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0486-predict-the-winner) |
 | [0546-remove-boxes](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0546-remove-boxes) |
@@ -118,6 +119,7 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0016-3sum-closest) |
+| [0056-merge-intervals](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0056-merge-intervals) |
 | [1096-brace-expansion-ii](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -374,4 +376,8 @@
 |  |
 | ------- |
 | [0546-remove-boxes](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0546-remove-boxes) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
