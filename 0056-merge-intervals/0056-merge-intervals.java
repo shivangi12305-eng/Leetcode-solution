@@ -4,7 +4,6 @@ class Solution {
         List<int[]> list=new ArrayList<>();
         int start=intervals[0][0];
         int end=intervals[0][1];
-
         for(int i=1;i<intervals.length;i++){
             if(intervals[i][0]<=end){
                 end=Math.max(end,intervals[i][1]);
@@ -14,7 +13,6 @@ class Solution {
                 end=intervals[i][1];
             }
         }
-
         list.add(new int[]{start,end});
         return list.toArray(new int[list.size()][]);
     }
