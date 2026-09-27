@@ -7,6 +7,7 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0016-3sum-closest) |
+| [0031-next-permutation](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0031-next-permutation) |
 | [0049-group-anagrams](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0056-merge-intervals) |
 | [0403-frog-jump](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0403-frog-jump) |
@@ -274,6 +275,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0005-longest-palindromic-substring) |
 | [0016-3sum-closest](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0016-3sum-closest) |
+| [0031-next-permutation](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0031-next-permutation) |
 | [0392-is-subsequence](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0392-is-subsequence) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
