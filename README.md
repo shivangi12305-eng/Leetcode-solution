@@ -10,6 +10,7 @@
 | [0031-next-permutation](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0031-next-permutation) |
 | [0049-group-anagrams](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0056-merge-intervals) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0403-frog-jump](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0403-frog-jump) |
 | [0486-predict-the-winner](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0486-predict-the-winner) |
 | [0546-remove-boxes](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0546-remove-boxes) |
@@ -374,10 +375,12 @@
 ## Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Geometry
 |  |
@@ -392,4 +395,12 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0056-merge-intervals) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
