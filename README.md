@@ -8,6 +8,7 @@
 | ------- |
 | [0016-3sum-closest](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0056-merge-intervals) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -344,6 +345,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
