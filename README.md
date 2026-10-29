@@ -57,6 +57,7 @@
 | [3718-smallest-missing-multiple-of-k](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/3731-find-missing-elements) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -150,6 +151,7 @@
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Sorting
 |  |
@@ -299,6 +301,7 @@
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/3310-remove-methods-from-project) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -371,6 +374,7 @@
 | [2213-longest-substring-of-one-repeating-character](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/3525-find-x-value-of-array-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Ordered Set
 |  |
 | ------- |
@@ -399,6 +403,7 @@
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Binary Search
 |  |
@@ -464,6 +469,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -489,6 +495,7 @@
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -502,6 +509,7 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Fermat's Little Theorem
 |  |
 | ------- |
