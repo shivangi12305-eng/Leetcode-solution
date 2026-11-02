@@ -15,6 +15,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0403-frog-jump](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0403-frog-jump) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0486-predict-the-winner) |
 | [0546-remove-boxes](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0546-remove-boxes) |
 | [0835-image-overlap](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0835-image-overlap) |
@@ -73,6 +74,7 @@
 | [0007-reverse-integer](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0012-integer-to-roman) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0486-predict-the-winner) |
 | [0836-rectangle-overlap](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0877-stone-game) |
@@ -163,6 +165,7 @@
 | [0016-3sum-closest](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0056-merge-intervals) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1096-brace-expansion-ii](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shivangi12305-eng/Leetcode-solution/tree/master/2089-find-target-indices-after-sorting-array) |
